@@ -19,3 +19,5 @@ else:
     getränk_text="etwas anderes"
 
 print(f"Dein Mittagessen ist",essen_text,"mit",getränk_text)
+
+print("En guete,ky eshte ndryshimi im i ri")
