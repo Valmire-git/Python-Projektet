@@ -47,3 +47,9 @@ print(motivi_per_profesion(profesioni))
    
 print(f"Mosha: {mosha} vite, Profesioni: {profesioni} ,Pervoja: {vite_pervoje}vite")
 print("❤Qendro keshtu si je,je rruges se duhur ❤")
+
+
+
+
+
+
