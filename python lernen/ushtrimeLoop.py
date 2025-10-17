@@ -12,7 +12,7 @@ while numri <=5:
 
 for i in range (10):
     if i == 6:
-      continue #kalon vetem numri 6
+     continue #kalon vetem numri 6
 print(i) 
 
 for i in range (10):
