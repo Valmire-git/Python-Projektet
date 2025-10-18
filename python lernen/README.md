@@ -1,16 +1,30 @@
-(❁´◡`❁)Python Projektet
-Ky eshte projekti im i pare ne **Python**
-📱-`Kalkulatori.py` Nje program i thjeshte qe kemi bere mbledhjen,zbritjen,shumezimin e pjestimin.
-⚙-`FUnksionet.py` Shembull me funksionet ne Python si If Elif Else!
+" 👋Hallo,ich bin Valmire Sejdaj"
 
-#Teknologjit qe kam perdorur
-🐍-Python 3
-💻-Visual Studio Code
-🌍-Git & GitHub
+💻 Ich lerne derzeit **Python-Programmierung**und entwickle meine Fähigkeiten im Bereich **Digitalisierung und IT** weiter.
+🚀 Mein Ziel ist es,mich jeden Tag in diesem Bereich zu verbessern und eines Tages in einem professionellen Digitalisierungprojekt in der Schweiz zu arbeiten.
 
-#Qellimi im:
+## 🐍 Mein Python-Weg
+Während meines Lernprozesses habe ich mehrere kleine Projekte erstellt,die mir geholfen haben,die Logik das Programmierens zu verstehen:
 
-🎯Te permisohem qdo dite me shume e te zhvillohem ne fushen e IT dhe Digital 
+ -🔢 ** Einfacher Taschenrechner ** -> Grund operationen mit ´if/elif/else´
+ - ⚙  ** PRO-Taschenrechner **      -> Nutzung von *Funktionen* für sauberen und wiederverwendbaren Code.
+ -🎯 ** Zahlenraten-Spiel **        -> Mein erstes Mini-Spiel mit **Schleifen* und *Bedingungen*
+ -📁 **Datei- Automatizierung **    -> Automatisches Erstellen von Ordnern und Dateien mit ´pathlib´
 
-📆Perditesuar me daten: 10.10.2025
-🖍Autore: Valmire Prebreza Sejdaj
+ --
+
+ ##🧠 Technologien die ich verwende
+ -Python
+ -Visual Studio Code
+ -Git & GitHub
+
+ --
+
+ ## 🎯 Mein Ziel 
+ >"Ich möchte mich jeden Tag weiterentwickeln und meine Kenntise in Bereich IT und Programmierung vertiefen."
+
+ --
+
+ ## 📩 Kontakt
+ valmire.sejdaj@gmail.com 
+ 
