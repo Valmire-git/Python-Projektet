@@ -6,10 +6,10 @@
 ## 🐍 Mein Python-Weg
 Während meines Lernprozesses habe ich mehrere kleine Projekte erstellt,die mir geholfen haben,die Logik das Programmierens zu verstehen:
 
- -🔢 ** Einfacher Taschenrechner ** -> Grund operationen mit ´if/elif/else´
- - ⚙  ** PRO-Taschenrechner **      -> Nutzung von *Funktionen* für sauberen und wiederverwendbaren Code.
- -🎯 ** Zahlenraten-Spiel **        -> Mein erstes Mini-Spiel mit **Schleifen* und *Bedingungen*
- -📁 **Datei- Automatizierung **    -> Automatisches Erstellen von Ordnern und Dateien mit ´pathlib´
+ -🔢 **Einfacher Taschenrechner** -> Grund operationen mit ´if/elif/else´
+ - ⚙  **PRO-Taschenrechner**      -> Nutzung von *Funktionen* für sauberen und wiederverwendbaren Code.
+ -🎯 **Zahlenraten-Spiel**        -> Mein erstes Mini-Spiel mit **Schleifen* und *Bedingungen*
+ -📁 **Datei- Automatizierung**    -> Automatisches Erstellen von Ordnern und Dateien mit ´pathlib´
 
  --
 
