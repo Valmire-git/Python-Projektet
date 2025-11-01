@@ -1,7 +1,16 @@
 # Lista e blerjeve 🛒
 # Krijuar nga Valmire 😊
 
-shopping_list = []  # lista bosh ku do ruajmë produktet
+import os
+
+file_name = "lista.txt"  # emri i file-it ku do ruajmë produktet
+
+# Nëse ekziston file, e lexon dhe e mbush listën ekzistuese
+shopping_list = []
+if os.path.exists(file_name):
+    with open(file_name, "r", encoding="utf-8") as f:
+        shopping_list = [line.strip() for line in f.readlines()]
+        print("📂 Lista ekzistuese u ringarkua nga file.")
 
 while True:
     print("\n--- MENU ---")
@@ -34,7 +43,10 @@ while True:
                 print(f"{i}. {item}")
 
     elif zgjedhja == "4":
-        print("👋 Ruajta listën dhe po dal...")
+        with open(file_name, "w", encoding="utf-8") as f:
+            for produkt in shopping_list:
+                f.write(produkt + "\n")
+        print(f"💾 Lista u ruajt me sukses në '{file_name}'! 👋")
         break
 
     else:
